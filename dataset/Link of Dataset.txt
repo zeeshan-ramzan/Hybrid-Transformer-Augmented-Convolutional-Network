@@ -1,2 +1,0 @@
-Link of Dataset:
-https://github.com/spmohanty/plantvillage-dataset
